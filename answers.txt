@@ -1,4 +1,10 @@
+
 Q1: Why might be consider using git?
 
 Answer: It is a distributed verson control system which allows you to keep track of changes in your project over time, helping you manage different versions of files. It also allows for easy collaboration on the same project, as people can work on the same codebase. Git also allows you to create separate branches for different features or bug fixes, and you can work on the features without affecting the main codebase, and merge once the feature is ready.   
+
+
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: Healthcare. It could provide some predictive analytics for disease diagnosis. It can help docutors to predict the likelihood of diseases in patients. Through the analysis of large datasets of patient medical histories, test and lab results, and generic information, machine learning models can be trained to predict diseases such as diabetes or cancer. For example, a model might be able to identify early signs of breast cancer by looking at lots of mammogram images, and by identifiying patterns it can pick up small tumors or tissue irregularties. This can help improve treatment since the cancer is in one of its earliest stages and also improve survival rates. It also provides a second opinion for doctors and radiologists. 
 
