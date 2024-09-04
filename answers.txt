@@ -6,5 +6,13 @@ Answer: It is a distributed verson control system which allows you to keep track
 
 Q2: What field could data science be applied to? Give and Example and how it might help
 
-Answer: Healthcare. It could provide some predictive analytics for disease diagnosis. It can help docutors to predict the likelihood of diseases in patients. Through the analysis of large datasets of patient medical histories, test and lab results, and generic information, machine learning models can be trained to predict diseases such as diabetes or cancer. For example, a model might be able to identify early signs of breast cancer by looking at lots of mammogram images, and by identifiying patterns it can pick up small tumors or tissue irregularties. This can help improve treatment since the cancer is in one of its earliest stages and also improve survival rates. It also provides a second opinion for doctors and radiologists. 
+Answer: Healthcare. It could provide some predictive analytics for disease diagnosis. It can help docutors to predict the likelihood of diseases in patients. Through the analysis of large datasets of patient medical histories, test and lab results, and generic information, machine learning models can be trained to predict diseases such as diabetes or cancer. For example, a model might be able to identify early signs of breast cancer by looking at lots of mammogram images, and by identifiying patterns it can pick up small tumors or tissue irregularties. This can help improve treatment since the cancer is in one of its earliest stages and also improve survival rates. It also provides a second opinion for doctors and radiologists.
 
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging preseves both branches' commit histories and creates a merge commit, whereas rebasing rewrits commit history to create a linear sequence of commits. When merging, git creates an additional merge commit whereas when rebasing, no merge commit is created as commits are reapplied on top of the target branch. You will use merge when you want to preseve the full context of feature development and maintain a record of branch integration, and you will use rebasing when you want to keep a clean, linear histroy, usually for local and private feature development.  
+
+Q3: What skills do you hope to improve during this course?
+
+Answer: I hope to improove my skills in handling and managing large datasets through data management systems. I also want to deepen my knowledge in statistical data analysis and enhance my skills in using tools and techniques for analysis. Lastly, I want to improve my ability to visualize data in a clear way, allowing me to communicate insights I get from real-world datasets. 
